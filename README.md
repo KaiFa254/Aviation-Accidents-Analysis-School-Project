@@ -87,10 +87,14 @@ This project will be using NTSB aviation accident database to answer below key q
 ![](./images/weather_and_phase.png)
 
 **Phase and weather Visualization**
-*Phase*
+
+*Flight Phase*
+
 - Landing is critical as it has the highest number of fatal accidents(15,384 cases), followed by Takeoff(12,435) and Cruise (10,208). Business should invest on trainings in this areas and more strict rules. 
 - Maneuvering and cruise also shows significant count
-*Weather Condtion*
+
+*Weather Condition*
+
 - its noted that 88% of fatal accidents occur in clear weather and not in bad weather highlighting that other factors contribute to accidents. 
 
 
