@@ -9,9 +9,16 @@ Image By: [Jeremy](https://unsplash.com/photos/gray-scale-photo-of-airplane-besi
  2. *Data Understanding*
  3. *Exploratory Data Analysis (EDA)*
  4. *Conclusion and Recommendations*
- 5. *Project Structure and Navigation*
- 6. *Links and Resources* (Tableu Interactive Dashboard & Data Source)
+ 5. *Links and Resources* - *(Tableu Interactive Dashboard & Data Source)*
 
+
+## Project Structure and Navigation
+
+- *`README.md` — Project documentation*
+- *`Aviation_risk_analysis_notebook.ipynb`  — Jupyter notebook for analysis*
+- *`Images/` — Saved plots and figures*
+- *`Data/` — Dataset files*
+- *`Presentation/` — Project summary slides PDF*
 
 # **1. Introduction and Business Understanding**
 Our company is exploring entry into the aviation business by acquiring private and commercial operations aircrafts. 
@@ -162,13 +169,7 @@ This project will be using NTSB aviation accident database to answer below key q
 - Develop distinct injury mitigation stategies noting they are independent and one-size-fit-all approach will not prevent the diverse causes of injuries. 
 
 
-# **4. Project Structure and Navigation**
 
-- `README.md` — Project documentation
-- `Aviation_risk_analysis_notebook.ipynb`  — Jupyter notebook for analysis
-- `Images/` — Saved plots and figures
-- `Data/` — Dataset files
-- `Presentation/` — Project summary slides PDF
 
 # **5. Links and resources**
 
