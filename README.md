@@ -165,10 +165,10 @@ This project will be using NTSB aviation accident database to answer below key q
 # **4. Project Structure and Navigation**
 
 - `README.md` — Project documentation
-- `Ph1-Aviation-risk-project/Aviation_risk_analysis.ipynb`  — Jupyter notebook for analysis
+- `Aviation_risk_analysis_notebook.ipynb`  — Jupyter notebook for analysis
 - `Images/` — Saved plots and figures
 - `Data/` — Dataset files
-- `Presentation/` — Project summary slides
+- `Presentation/` — Project summary slides PDF
 
 # **5. Links and resources**
 
