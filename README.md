@@ -84,7 +84,7 @@ This project will be using NTSB aviation accident database to answer below key q
 
 ### **3.2 Are there specific phases of flight or weather conditions that present higher risks?**
 
-![](./images/weather_and_phase.png)
+![](./Images/weather_and_phase.png)
 
 **Phase and weather Visualization**
 
